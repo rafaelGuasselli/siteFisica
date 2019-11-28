@@ -6,7 +6,7 @@
             está se expandindo. Diante dessa perspectiva, buscamos estudar tal teoria a fim de assimilarmos como ocorreu o momento da explosão bem como suas consequências ao longo dos anos.
         </p>
 
-        <img class="foto" src="/trabalhos/<?php echo $_GET['nome']?>/src/galaxia.png" alt="">
+        <img class="foto" src="pages/trabalhos/<?php echo $_GET['nome']?>/src/galaxia.png" alt="">
 
         <p>Fonte:<a href="https://www.forbes.com/sites/startswithabang/2018/06/20/the-counterintuitive-reason-why-dark-energy-makes-the-universe-accelerate/#10c6088774c1">https://www.forbes.com/sites/startswithabang/2018/06/20/the-counterintuitive-reason-why-dark-energy-makes-the-universe-accelerate/#10c6088774c1</a>
             <br> Verificado em 13/08/2019.
@@ -19,7 +19,7 @@
         <h2>Membros</h2>
         <br>
         <p>ANDRESSA BORGES,<br>KETLIN GARCIA. <br>LAURA ANDRADES.<br></p>
-        <img class="foto fotoGrupo" src="/trabalhos/<?php echo $_GET['nome']?>/src/garotas.png" alt="">
+        <img class="foto fotoGrupo" src="pages/trabalhos/<?php echo $_GET['nome']?>/src/garotas.png" alt="">
 </article>
 <article>
         <h1>Bibliografia</h1>

@@ -9,7 +9,7 @@
         criação do universo, podem se tornar algo muito perigoso em questão de pouco tempo. Por terem grandes concentrações de energia, sua morte pode algumas vezes podem originar os tão temidos buracos negros.
     </p>
 
-    <img class="foto" src="/trabalhos/<?php echo $_GET['nome']?>/src/foto1.jpg" alt="Imagem de uma nebulosa">
+    <img class="foto" src="pages/trabalhos/<?php echo $_GET['nome']?>/src/foto1.jpg" alt="Imagem de uma nebulosa">
     <p>
         Disponível <a href="https://www.apolo11.com/display.php?imagem=imagens/2011/nebulosa_m42_trapezio_big.jpg">aqui.</a></p>
     </p>
@@ -20,7 +20,7 @@
     <h2>Membros</h2>
     <br>
     <p>Eduarda Peruzzo, <br>Monize Konorath<br></p>
-    <img class="foto fotoGrupo" src="/trabalhos/<?php echo $_GET['nome']?>/src/foto_grupo.jpg" alt="">
+    <img class="foto fotoGrupo" src="pages/trabalhos/<?php echo $_GET['nome']?>/src/foto_grupo.jpg" alt="">
 </article>
 <article>
     <h1>Bibliografia</h1>

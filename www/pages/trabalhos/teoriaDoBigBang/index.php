@@ -8,7 +8,7 @@
                 Neste Projeto visamos atingir as escolas de ensino básico, produzindo e divulgando material de apresentação para os professores, identificando anteriormente suas necessidades. Neste material estará contido não só conteúdos relacionados a Teoria do Big Bang como é hoje, mas também o caminho até ela, citando seus principais contribuintes. 
             </p>
 
-            <img class="foto" src="/trabalhos/<?php echo $_GET['nome']?>/src/foto1.jpg" alt="">
+            <img class="foto" src="pages/trabalhos/<?php echo $_GET['nome']?>/src/foto1.jpg" alt="">
 
             <p>
                 Fonte:<a href="https://www.forbes.com/sites/startswithabang/2018/06/20/the-counterintuitive-reason-why-dark-energy-makes-the-universe-accelerate/#10c6088774c1">https://www.forbes.com/sites/startswithabang/2018/06/20/the-counterintuitive-reason-why-dark-energy-makes-the-universe-accelerate/#10c6088774c1</a>  
@@ -23,7 +23,7 @@
         <h2>Membros</h2>
         <br>
         <p>GIORDANA SAMPAIO, <br>KETLIN GARCIA.<br></p>
-        <img class="foto fotoGrupo" src="/trabalhos/<?php echo $_GET['nome']?>/src/foto.jpg" alt="">
+        <img class="foto fotoGrupo" src="pages/trabalhos/<?php echo $_GET['nome']?>/src/foto.jpg" alt="">
 </article>
 <article>
         <h1>Bibliografia</h1>      

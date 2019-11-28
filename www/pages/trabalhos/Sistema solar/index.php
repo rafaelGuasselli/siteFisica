@@ -14,7 +14,7 @@
             </p>
 
             <div class="imagem-trab">
-                <img class="foto" src="/trabalhos/<?php echo $_GET['nome']?>/src/foto1.jpg" alt="">
+                <img class="foto" src="pages/trabalhos/<?php echo $_GET['nome']?>/src/foto1.jpg" alt="">
                 <p>Fonte:<a href="https://ichef.bbci.co.uk/news/660/cpsprodpb/14AAC/production/_105225648_1-">https://ichef.bbci.co.uk/news/660/cpsprodpb/14AAC/production/_105225648_1-</a>  
                 <br>
                 Verificado em 13/08/2019.
@@ -28,7 +28,7 @@
         <h2>Membros</h2>
         <br>
         <p>Giovana Camargo <br> Jordana Castro <br> Millena Ludtke.<br></p>
-        <img class="foto fotoGrupo" src="/trabalhos/<?php echo $_GET['nome']?>/src/foto.jpg" alt="">
+        <img class="foto fotoGrupo" src="pages/trabalhos/<?php echo $_GET['nome']?>/src/foto.jpg" alt="">
 </article>
 <article>
         <h1>Bibliografia</h1>      
