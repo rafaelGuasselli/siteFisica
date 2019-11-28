@@ -3,7 +3,7 @@ image:
   context: apache
 ports:
 - port: 8080
-  onOpen: open-preview
+
 tasks:
 - name: Terminal
   command: >
@@ -16,4 +16,8 @@ tasks:
 - name: Apache
   command: >
     apachectl -k start -f '/workspace/siteFisica/apache/apache.conf' &&
-    multitail /var/log/apache2/access.log -I /var/log/apache2/error.log
+    multitail /var/log/apache2/access.log -I /var/log/apache2/error.log 
+- name: Terminal
+  command: >
+    gp url 8080 
+    
