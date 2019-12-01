@@ -63,7 +63,7 @@
         <h2>A Musica e as emoções</h2>
         <div style='background-image: url("pages/trabalhos/musica/src/fotoTrab.jpg");' alt="imagem" class="img"></div>
         <p>
-            
+            A música é um conjunto de sons que nos traz uma emoção. Cada som, denominado nota, tem uma frequência característica e um timbre específico do instrumento que é tocado. Nossa pesquisa visa estabelecer uma relação entre as frequências das notas de diferentes músicas, mas que transmitem a mesma emoção e, com a seguinte pesquisa visa analisar como as músicas afetam no cotidiano do estudante, professor ou servidor do IFRS Campus Osório.
             <br><a href="trabalho?nome=musica">Leia mais</a>
         </p>
     </div>
