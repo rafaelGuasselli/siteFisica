@@ -20,7 +20,7 @@
     <header>
         <nav>
             <div class="botao">
-                <a href="home">Inicio</a>
+                <a href="/">Inicio</a>
             </div>
             <div class="inputs">
                 <input onchange="search()" id="search" type="text" placeholder="Buscar">

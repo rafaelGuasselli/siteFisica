@@ -59,5 +59,15 @@
     </div>
     <!--item-container-->
 
+    <div id="item7" class="item" onclick="abrir(7);">
+        <h2>A Musica e as emoções</h2>
+        <div style='background-image: url("pages/trabalhos/musica/src/fotoTrab.jpg");' alt="imagem" class="img"></div>
+        <p>
+            
+            <br><a href="trabalho?nome=musica">Leia mais</a>
+        </p>
+    </div>
+    <!--item-container-->
+
 </div>
 <!--content-container-->
