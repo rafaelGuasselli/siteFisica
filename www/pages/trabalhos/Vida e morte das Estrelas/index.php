@@ -14,6 +14,13 @@
         Disponível <a href="https://www.apolo11.com/display.php?imagem=imagens/2011/nebulosa_m42_trapezio_big.jpg">aqui.</a></p>
     </p>
 </article>
+
+<article>
+    <video  controls>
+        <source src="pages/trabalhos/<?php echo $_GET['nome']?>/src/video.m4v">
+    </video>
+</article>
+
 <article>
     <h1>Grupo</h1>
     <br>

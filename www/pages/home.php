@@ -47,6 +47,16 @@
             <br><a href="trabalho?nome=maisumTeoriadoBigBang">Leia mais</a>
         </p>
     </div>
+
+    <!--item-container-->
+    <div id="item6" class="item" onclick="abrir(6);">
+        <h2>Mitos da Criação</h2>
+        <div style='background-image: url("pages/trabalhos/mitosDaCriacao/src/fotoTrab.jpg");' alt="imagem" class="img"></div>
+        <p>
+            Com o passar de varias gerações e culturas historias a respeito da criação foram sendo criadas. Venha conosco desvendar o passado em busca das mais diversas historias da criação
+            <br><a href="trabalho?nome=mitosDaCriacao">Leia mais</a>
+        </p>
+    </div>
     <!--item-container-->
 
 </div>

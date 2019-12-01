@@ -6,6 +6,8 @@
                     A Teoria do Big Bang , atualmente a mais aceita dentro da comunidade científica, busca explicar a formação do nosso Universo desde seus primeiros instantes até a formação do mundo que conhecemos, fazendo isto com base em estudos e pesquisas científicas de diversas personalidades do mundo da ciência, que foram aperfeiçoados ao longo dos anos, para que tenhamos cada vez mais precisão sobre nossas origens.   
                 Mesmo sendo de grande importância esta teoria, ela ainda é pouco estudada e aprofundada nas escolas brasileiras, fazendo com que o conhecimento de muitos sobre a mesma seja equivocado ou quase nulo, deixando de fora o estudo dos principais autores que contribuíram para formulação da mesma, como por exemplo; Copérnico, que propôs o modelo heliocêntrico; Edwin Hubble, que demonstrou que o universo está em expansão medindo o desvio para o vermelho de galáxias distantes, entre outros.
                 Neste Projeto visamos atingir as escolas de ensino básico, produzindo e divulgando material de apresentação para os professores, identificando anteriormente suas necessidades. Neste material estará contido não só conteúdos relacionados a Teoria do Big Bang como é hoje, mas também o caminho até ela, citando seus principais contribuintes. 
+            <p>Trabalho completo disponivel <a href="pages/trabalhos/<?php echo $_GET['nome']?>/src/artigo.pdf">aqui!</a></p>
+            <p>Slide completo disponivel <a href="pages/trabalhos/<?php echo $_GET['nome']?>/src/slides.pdf">aqui!</a></p>
             </p>
 
             <img class="foto" src="pages/trabalhos/<?php echo $_GET['nome']?>/src/foto1.jpg" alt="">

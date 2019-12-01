@@ -47,4 +47,28 @@ main{
 }
 
 /*Fim do Main*/
+/*midia queries*/
+@media screen and (max-width: 1250px){
+    .item{
+        width: 29%;
+    }
+}
 
+@media screen and (max-width: 1000px){
+    main div.content-container{
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .item{
+        width: 40%;
+        margin: 10px 10px;
+    }
+}
+
+@media screen and (max-width: 750px){
+    .item{
+        width: 90%;
+        margin: 10px 0;
+    }
+}

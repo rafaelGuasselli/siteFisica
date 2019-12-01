@@ -3,8 +3,11 @@
 <html lang="pt-br">
 
 <head>
-    <meta charset="utf-8" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Origens</title>
+
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/trabalho.css">
     <link rel="stylesheet" href="css/erro404.css">
@@ -13,6 +16,7 @@
 
 <body>
     <main>
+    
     <header>
         <nav>
             <div class="botao">

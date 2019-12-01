@@ -9,9 +9,11 @@ function abrir(num){
     if(teste){
         $("#item"+num+" p").show("slow");
     }
+    
     $('html, body').animate({
-        scrollTop: (Math.floor((num-1)/4) * 200) + 20
-    }, 500);
+        scrollTop: $("#item"+num).offset().top
+    }, 600); 
+
 }
 
 function search(){

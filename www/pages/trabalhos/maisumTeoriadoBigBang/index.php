@@ -4,6 +4,7 @@
             Big Bang diz que a origem do nosso universo se deve a explosão de um átomo há cerca de 13,8 bilhões de anos atrás. Além disso, essa teoria afirma que o universo está em constante expansão. Neste projeto de pesquisa, temos como objeto de
             estudo a origem do universo através do Big Bang e suas influencias nos dias atuais, buscando entender e refletir esse processo. Este tema é de grande relevância pois com ele é possível compreendermos como tudo surgiu e como nosso universo
             está se expandindo. Diante dessa perspectiva, buscamos estudar tal teoria a fim de assimilarmos como ocorreu o momento da explosão bem como suas consequências ao longo dos anos.
+            <p>Trabalho completo disponivel <a href="pages/trabalhos/<?php echo $_GET['nome']?>/src/slides.pdf">aqui!</a></p>
         </p>
 
         <img class="foto" src="pages/trabalhos/<?php echo $_GET['nome']?>/src/galaxia.png" alt="">

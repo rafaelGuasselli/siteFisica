@@ -11,8 +11,10 @@
                 teoria da Nebulosa Solar - uma nuvem de gás e poeira do cosmos que está
                 relacionada com a origem do Sistema Solar - o qual é composto por oito planetas e
                 diversos outros astros do Universo, como asteróides, satélites…
+                <p>Trabalho completo disponivel <a href="pages/trabalhos/<?php echo $_GET['nome']?>/src/slides.pdf">Aqui!</a></p>
             </p>
 
+            
             <div class="imagem-trab">
                 <img class="foto" src="pages/trabalhos/<?php echo $_GET['nome']?>/src/foto1.jpg" alt="">
                 <p>Fonte:<a href="https://ichef.bbci.co.uk/news/660/cpsprodpb/14AAC/production/_105225648_1-">https://ichef.bbci.co.uk/news/660/cpsprodpb/14AAC/production/_105225648_1-</a>  
