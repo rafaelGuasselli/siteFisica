@@ -40,7 +40,7 @@
     <footer>
         <section>
             <p>Powered By:
-                <a href="index.html">
+                <a target="_blank" href="https://github.com/rafaelGuasselli">
                     @Rafael Guasselli
                 </a>
             </p>
