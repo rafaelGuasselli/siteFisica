@@ -25,7 +25,7 @@
         <h2>Membros</h2>
         <br>
         <p>GIORDANA SAMPAIO, <br>KETLIN GARCIA.<br></p>
-        <img class="foto fotoGrupo" src="pages/trabalhos/<?php echo $_GET['nome']?>/src/foto.jpg" alt="">
+        <img class="foto fotoGrupo" src="pages/trabalhos/<?php echo $_GET['nome']?>/src/foto_grupo.jpg" alt="">
 </article>
 <article>
         <h1>Bibliografia</h1>      

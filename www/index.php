@@ -23,11 +23,11 @@
                 <a href="/">Inicio</a>
             </div>
             <div class="inputs">
-                <input onchange="search()" id="search" type="text" placeholder="Buscar">
+                <input id="search" type="text" placeholder="Buscar">
             </div>
         </nav>
     </header>
-
+    
     <?php 
         $url = isset($_GET['url']) ? $_GET['url'] : 'home';
         if(file_exists('pages/'.$url.'.php')){
